@@ -1,0 +1,86 @@
+<poema>
+<texto verso="Tudo foi breve" ordem="1" taxon="verso1"></texto>
+<texto verso="Apenas começado" ordem="1" taxon="verso2"></texto>
+<texto verso="Era grande demais" ordem="" taxon=""></texto>
+<texto verso="Para vir inteiro" ordem="3" taxon="verso3"></texto>
+<texto verso="As palavras não são importantes" ordem="" taxon=""></texto>
+<texto verso="Em si mesmas" ordem="3" taxon="verso4"></texto>
+<texto verso="O importante são as coisas" ordem="5" taxon="verso5"></texto>
+<texto verso="Que se disfarçam em palavras" ordem="3" taxon="verso6"></texto>
+<texto verso="No repartir do som" ordem="4" taxon="verso7"></texto>
+<texto verso="Em ecos infinitos" ordem="2" taxon="verso8"></texto>
+<texto verso="Vem buscar a tua ausência" ordem="5" taxon="verso9"></texto>
+<texto verso="Antes que seja tarde" ordem="4" taxon="verso10"></texto>
+<categorias>
+<verso1>
+<frase>Nada</frase>
+<frase>Porque</frase>
+<frase>Pulsão</frase>
+<frase>Lampejo</frase>
+<frase>Sobretudo</frase>
+</verso1>
+<verso2>
+<frase>Sempre</frase>
+<frase>Meramente</frase>
+<frase>Desejo</frase>
+<frase>Roteiro</frase>
+<frase>Meramente</frase>
+</verso2>
+<verso3>
+<frase>completo</frase>
+<frase>acessível</frase>
+<frase>mistério</frase>
+<frase>atalho</frase>
+<frase>perfeito</frase>
+</verso3>
+<verso4>
+<frase>tumultuadas</frase>
+<frase>vozes</frase>
+<frase>ausentes</frase>
+<frase>arremessadas</frase>
+<frase>desveladas</frase>
+</verso4>
+<verso5>
+<frase>sombras</frase>
+<frase>paredes</frase>
+<frase>pinturas</frase>
+<frase>incertezas</frase>
+<frase>violetas</frase>
+</verso5>
+<verso6>
+<frase>envolvem</frase>
+<frase>encerram</frase>
+<frase>emolduram</frase>
+<frase>diluem</frase>
+<frase>perfumam</frase>
+</verso6>
+<verso7>
+<frase>eco</frase>
+<frase>olhar</frase>
+<frase>caminho</frase>
+<frase>poema</frase>
+<frase>odor</frase>
+</verso7>
+<verso8>
+<frase>ciclos</frase>
+<frase>voos</frase>
+<frase>muros</frase>
+<frase>saltos</frase>
+<frase>laços</frase>
+</verso8>
+<verso9>
+<frase>ruína</frase>
+<frase>pedra</frase>
+<frase>árvore</frase>
+<frase>madrugada</frase>
+<frase>poesia</frase>
+</verso9>
+<verso10>
+<frase>colapso</frase>
+<frase>pó</frase>
+<frase>tempestade</frase>
+<frase>ocaso</frase>
+<frase>gaveta</frase>
+</verso10>
+</categorias>
+</poema>
