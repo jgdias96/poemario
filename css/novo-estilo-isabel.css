@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.vers {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 22px;
+    /*
+font-family: 
+*/
+    font-size: 30px;
+    line-height: 32px;
+    color: F15406;
+}
+
+.container {
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    /* CSS Document */
+}
